@@ -14,3 +14,8 @@ In this project, I  trained a convolutional neural network to take in an image o
 
 
 
+To DO: 
+# Validation Set last 12 months
+# Documentation
+# Ensemble with LSTM 
+
