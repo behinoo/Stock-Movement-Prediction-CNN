@@ -10,7 +10,7 @@ In this project, I  trained a convolutional neural network to take in an image o
 1. Obtain the data from several stocks, 
 2. Plot closing price and volume  for given window of time for each of the stocks and stitch them to together. For example: 
     for example image at Ta with given window of 20 includes previous 20 closing prices for all of the requested stocks.
-3. Label: the label indicate if the price moved 2% higher from previous day. for example if the price go 2% higher the next day, lable       will be 1, otherwise, 0 
+3. Label: the label indicate if the price moved N% higher from previous day. for example if the price go 2% higher the next day, lable       will be 1, otherwise, 0 
 
 
 
